@@ -9,3 +9,4 @@ def KicsiharmadDarab(A):
             db+=1
     return db
 print(f"A sorozatban{KicsiharmadDarab(lista)}")
+ 
